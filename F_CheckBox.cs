@@ -12,7 +12,7 @@ namespace Componentes1
 {
     public partial class F_CheckBox : Form
     {
-        List<CheckBox> transp = new List<CheckBox>();
+        List<CheckBox> transp = new List<CheckBox>();;
         public F_CheckBox()
         {
             InitializeComponent();
